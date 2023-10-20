@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.head{
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 3rem;
+}
+p{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.sub-head{
+  font-size: 2rem;
+  margin-top: 1.7rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 1rem;
+}
